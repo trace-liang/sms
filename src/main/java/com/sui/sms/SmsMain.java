@@ -5,5 +5,7 @@ public class SmsMain {
 		System.out.println("init");
 		System.err.println("sms_v1.0.1_test_20180420 fix bugs");
 		System.err.println("sms_v1.0.3_dev_20180427 develop");
+		System.err.println("sms_v1.0.3_test_20180503 fix bug");
+
 	}
 }
