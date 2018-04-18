@@ -7,7 +7,7 @@ public class SmsMain {
 		System.out.println("sms_v1.0.2_dev_20180420 develop new funtion");
 		System.out.println("sms_v1.0.2_test_20180420 bugfix");
 		System.out.println("sms_v1.0.3_dev_20180427 develop");
-		System.out.println("sms_v1.0.3_test_20180503 bugfix");
+		System.out.println("sms_v1.0.3_test_20180503 bugfix test");
 
 
 		
